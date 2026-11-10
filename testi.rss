@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Windows · macOS · Linux — uutiset selitettynä</title>
+    <link>https://example.invalid/</link>
+    <description>Esimerkkikooste käyttöjärjestelmäuutisista. Jokaisessa jutussa on lyhyt suomenkielinen selitys.</description>
+    <language>fi</language>
+    <generator>ChatGPT</generator>
+    <item>
+      <title>[Windows] Windows 11:n moniajo nopeutuu 8 gigatavun koneissa</title>
+      <link>https://www.techspot.com/news/2026/11/04/microsoft-says-windows-now-20-percent-more-responsive-40-percent-faster-multitasking-8gb-pcs.html</link>
+      <guid isPermaLink="true">https://www.techspot.com/news/2026/11/04/microsoft-says-windows-now-20-percent-more-responsive-40-percent-faster-multitasking-8gb-pcs.html</guid>
+      <category>Windows</category>
+      <description>Microsoftin mukaan Windows 11:n moniajo toimii aiempaa sujuvammin 8 Gt:n RAM-koneissa. Parannukset kohdistuvat muistinkäyttöön ja sovellusten reagointiin; ilmoitetut nopeusluvut ovat valmistajan testituloksia.</description>
+    </item>
+    <item>
+      <title>[Windows] Windows 11 saa marraskuussa uusia palautus- ja valikkotoimintoja</title>
+      <link>https://www.windowscentral.com/microsoft/windows-11/i-found-the-11-biggest-changes-coming-to-windows-11-in-november</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/i-found-the-11-biggest-changes-coming-to-windows-11-in-november</guid>
+      <category>Windows</category>
+      <description>Windows Centralin mukaan päivityksiin kuuluu muun muassa muokattavampi hiiren oikean painikkeen valikko sekä pilven kautta tehtävä Windowsin uudelleenasennus. Ominaisuudet tulevat käyttöön vaiheittain.</description>
+    </item>
+    <item>
+      <title>[macOS] Apple ei aio yhdistää macOS:ää ja iPadOS:ää</title>
+      <link>https://www.techspot.com/news/2026/11/04/apple-says-it-wont-merge-macos-ipados-despite-years-making-increasingly-similar.html</link>
+      <guid isPermaLink="true">https://www.techspot.com/news/2026/11/04/apple-says-it-wont-merge-macos-ipados-despite-years-making-increasingly-similar.html</guid>
+      <category>macOS</category>
+      <description>Apple kertoo pitävänsä Macin ja iPadin käyttöjärjestelmät erillisinä, vaikka niiden käyttöliittymissä ja ominaisuuksissa on lähentymistä. Tämä viittaa siihen, että Mac säilyttää oman työpöytäkäyttöön suunnatun järjestelmänsä.</description>
+    </item>
+    <item>
+      <title>[macOS] MacBook Neo 2:n odotuksia ja Applen seuraavia suunnitelmia</title>
+      <link>https://www.computerworld.com/operating-systems/</link>
+      <guid isPermaLink="true">https://www.computerworld.com/operating-systems/</guid>
+      <category>macOS</category>
+      <description>Computerworldin artikkeli tarkastelee Applen seuraavaa mahdollista MacBook Neo -mallia. Kyse on ennakkoarviosta, ei vahvistetusta julkaisuilmoituksesta.</description>
+    </item>
+    <item>
+      <title>[Linux] Linux 7.5 poistaa viimeiset vanhat Intel MMX -optimoinnit</title>
+      <link>https://www.tomshardware.com/software/operating-systems</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/software/operating-systems</guid>
+      <category>Linux</category>
+      <description>Linuxin kehityksessä ollaan luopumassa Pentium-aikakauden MMX-optimoinneista. Muutos siivoaa vanhaa koodia, jota nykykoneissa ei käytännössä enää tarvita.</description>
+    </item>
+    <item>
+      <title>[Linux] GOG Galaxy -peliohjelmalle luvataan virallinen Linux-tuki</title>
+      <link>https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/</link>
+      <guid isPermaLink="true">https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/</guid>
+      <category>Linux</category>
+      <description>GOG suunnittelee Galaxy-asiakasohjelman uudistusta vuodelle 2027 ja kertoo tuovansa tuen myös Linuxille. Linux-pelaajat voivat jatkossakin käyttää pelejä ja DRM-vapaita asennustiedostoja ilman Galaxyä.</description>
+    </item>
+  </channel>
+</rss>
